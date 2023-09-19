@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="button_background_color">#FF4081</color>
+    <color name="button_stroke_color">#FFC107</color>
+    <color name="constraint_background_color">#E0E0E0</color>
+
+
+</resources>
