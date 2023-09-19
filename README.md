@@ -10,7 +10,6 @@ This QR Scanner app is built using Kotlin and is designed to scan various types 
 - Displays different responses based on the content of the QR code:
   - Text: Displays in an alert dialog.
   - URL: Displays a toast and redirects to the specified URL.
-  - Contact Information: [Feature in progress]
 
 ## Videos
 
